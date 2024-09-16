@@ -10,6 +10,6 @@ link del repositorio: https://github.com/eldipa/hands-on-threads
 ## Diagrama
 
 
-![img](/docs/client-server-queues-architecture.png?raw=true "img")
-![img](/docs/class_diagrams.png?raw=true "img")
+![img](/threads/docs/client-server-queues-architecture.png?raw=true "img")
+![img](/threads/docs/class_diagrams.png?raw=true "img")
 
